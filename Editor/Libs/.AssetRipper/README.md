@@ -1,0 +1,1 @@
+This is the folder where asset ripper will be downloaded to.
